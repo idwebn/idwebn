@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About me:<br><br>💻 ITMO AI Engineering student<br>💼 Web-developer</h3>
+<h3 align="left">About me:<br><br>💻 ITMO DevOps student<br>💼 Web-developer</h3>
 
 ###
 
